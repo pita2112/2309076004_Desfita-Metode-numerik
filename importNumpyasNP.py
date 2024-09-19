@@ -19,3 +19,4 @@ def biseksi(f, a, b, toleransi=1e-6, max_iterasi=10):
             a = c
         iterasi_count += 1
     return (a + b) / 2
+    a, b = -1, 0
